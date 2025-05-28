@@ -1,0 +1,4 @@
+i=5
+j=5
+k=i+j
+print(k)
